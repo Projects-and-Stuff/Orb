@@ -12,8 +12,9 @@ Possible uses include:
 *File Structure*
 
 * ./Firmware/ --> Firmware for the project (Written in C Utilizing AVR Studio 5 and AVRGCC)
-* ./Hardware/ --> Kicad Project for Orb
+* ./Electronics/ --> Kicad Project for Orb
 * ./GerberOutput/ --> The latest Gerber Files for manufacture
+* ./Hardware/ --> Physical part models and drawings
 * ./Notes/ --> Project Notes, BOM, and Research
 
 ---
